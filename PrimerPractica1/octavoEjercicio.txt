@@ -1,0 +1,6 @@
+    PID TTY          TIME CMD
+      1 ?        00:00:23 .pid1-wrapped
+     15 pts/0    00:00:00 bash
+     16 pts/1    00:00:00 bash
+     31 ?        00:00:03 bash-language-s
+  12262 pts/1    00:00:00 ps

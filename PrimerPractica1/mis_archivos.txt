@@ -1,0 +1,13 @@
+carpetaGui
+cuartoEjercicio.txt
+index.sh
+main.sh
+mis_archivos.txt
+octavoEjercicio.txt
+primerEjercicio.txt
+replit.nix
+segundo2Ejercicio.txt
+segundoEjercicio.txt
+septimoEjercicio.txt
+sextoEjercicio.txt
+tercerEjercicio.txt

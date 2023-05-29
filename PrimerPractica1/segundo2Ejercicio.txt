@@ -1,0 +1,9 @@
+.
+..
+.cache
+main.sh
+primerEjercicio.txt
+.replit
+replit.nix
+segundo2Ejercicio.txt
+segundoEjercicio.txt

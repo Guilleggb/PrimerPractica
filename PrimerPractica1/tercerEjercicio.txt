@@ -1,0 +1,8 @@
+  File: tercerEjercicio.txt
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 0,4939	Inode: 311         Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/  runner)   Gid: ( 1000/  runner)
+Access: 2023-05-29 01:48:35.469415554 +0000
+Modify: 2023-05-29 01:48:35.469415554 +0000
+Change: 2023-05-29 01:48:35.469415554 +0000
+ Birth: 2023-05-29 01:48:35.469415554 +0000

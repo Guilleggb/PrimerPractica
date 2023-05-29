@@ -1,0 +1,4 @@
+main.sh
+primerEjercicio.txt
+replit.nix
+segundoEjercicio.txt
