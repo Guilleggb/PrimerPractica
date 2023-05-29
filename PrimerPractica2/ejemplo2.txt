@@ -1,0 +1,20 @@
+CAT
+Supongamos que tienes un archivo llamado archivo1.txt con el siguiente contenido: "Hola, esto es un archivo de texto."
+
+Para mostrar el contenido completo del archivo en la salida estándar, puedes usar el comando cat de la siguiente manera:
+ > cat archivo1.txt
+
+Hola, esto es un archivo de texto.
+
+
+CON MORE O LESS NO REALIZAMOS EJEMPLOS PORQUE NO SE COMO REALIZAR UN DOC CON VARIAS PAGINAS
+
+MORE 
+Supongamos que tienes un archivo llamado documento.txt con varias páginas de contenido. Para ver el contenido de este archivo de forma paginada usando more, puedes ejecutar el siguiente comando:
+ > more documento.txt
+Esto mostrará el contenido del archivo documento.txt página por página. Puedes presionar la tecla "Espacio" para avanzar a la siguiente página y la tecla "Q" para salir de more.
+
+LESS 
+Supongamos que tienes un archivo llamado informe.txt y deseas examinar su contenido de manera interactiva. Puedes utilizar less de la siguiente manera:
+ > less informe.txt
+Esto abrirá el archivo informe.txt en el visor less. Puedes desplazarte hacia arriba y hacia abajo usando las teclas de flecha. Para salir de less, simplemente presiona la tecla "Q".

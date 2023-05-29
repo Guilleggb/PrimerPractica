@@ -1,0 +1,2 @@
+cp info_txt.txt manual.txt (lo que quiero copiar y en donde)
+rm info_txt.txt 

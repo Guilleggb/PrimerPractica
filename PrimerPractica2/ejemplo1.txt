@@ -1,0 +1,25 @@
+Apareció esto por consola
+
+top - 02:53:04 up  1:35,  0 users,  load average: 9.68,
+Tasks:   5 total,   1 running,   4 sleeping,   0 stoppe
+%Cpu(s): 21.6 us, 16.7 sy,  0.0 ni, 59.5 id,  0.8 wa,  
+MiB Mem :  64308.8 total,  33813.3 free,  12979.8 used,
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU 
+      1 runner    20   0 1843008  34168  18768 S   0.7 
+     14 runner    20   0    7996   4496   3504 S   0.0 
+     29 runner    20   0   10.9g  80124  38280 S   0.0 
+   1998 runner    20   0    8004   4772   3632 S   0.0 
+   2122 runner    20   0    9092   3580   3060 R   0.0 
+
+
+El comando top se usa para ordenar por uso de memoria:
+1 - Abre una terminal en tu sistema.
+2 - Escribe el comando top y presiona Enter.
+3 - Verás que se abre una ventana interactiva que muestra información en tiempo real sobre el uso de recursos del sistema.
+4 - Para ordenar la lista de procesos por uso de memoria, presiona la tecla M. Los procesos se reorganizarán y se mostrarán en orden descendente según su consumo de memoria.
+5 - Observa la columna "RES" o "%MEM" para ver la cantidad de memoria utilizada por cada proceso.
+6 - Para salir del comando top, presiona la tecla q.
+
+Recuerda que el comando top es interactivo y se actualiza periódicamente para mostrar la información en tiempo real.

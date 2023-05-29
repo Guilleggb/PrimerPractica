@@ -1,0 +1,11 @@
+Manual de Comandos
+
+Comando: ls
+Descripción: El comando ls se utiliza para listar los archivos y carpetas en un directorio.
+Uso: ls [opciones] [ruta]
+Ejemplo: ls -l /home
+
+Comando: kill
+Descripción: El comando kill se utiliza para enviar una señal a un proceso para terminarlo.
+Uso: kill [opciones] PID
+Ejemplo: kill -9 1234
